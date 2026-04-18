@@ -150,14 +150,27 @@ http://localhost:8501/
 
 Add your screenshots here:
 
-```md
-![User Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/0beffc1e5851f5b3bc2286a0c87805333052e384/Screenshot/User/Home.png?raw=true)
+## Preview
 
-![Admin Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)
-![Admin Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)
-![Admin Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)
-![Admin Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)
-![Dashboard](image2.png)
+### User
+
+![Home](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/User/Home.png?raw=true)
+
+![Result](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/User/Result.png?raw=true)
+
+![Result1](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/User/Result1.png?raw=true)
+
+![Result2](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/User/Result2.png?raw=true)
+
+![Result3](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/User/Result3.png?raw=true)
+
+### Admin
+
+![Admin](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)
+
+![Admin2](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin2.png.png?raw=true)
+
+![Chart](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Chart.png?raw=true)
 ```
 
 ---

@@ -151,7 +151,7 @@ http://localhost:8501/
 Add your screenshots here:
 
 ```md
-![User Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/User/Home.png?raw=true)
+![User Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/0beffc1e5851f5b3bc2286a0c87805333052e384/Screenshot/User/Home.png?raw=true)
 
 ![Admin Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)
 ![Admin Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)

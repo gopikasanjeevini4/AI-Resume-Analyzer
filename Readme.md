@@ -139,16 +139,7 @@ http://localhost:8501/
 * Improve ATS score
 * View recommendations
 
-### Admin Login
-
-* Username: `admin`
-* Password: `admin123`
-
 ---
-
-## 📸 Preview
-
-Add your screenshots here:
 
 ## Preview
 
@@ -175,6 +166,6 @@ Add your screenshots here:
 
 ---
 
-## 🤍 Author
+ Author
 
-Developed by **Gopika Sanjeevini**
+Developed by Gopika Sanjeevini

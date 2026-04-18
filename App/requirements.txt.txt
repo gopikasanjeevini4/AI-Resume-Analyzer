@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+pymysql
+PyMuPDF
+pdfplumber
+streamlit-tags
+easyocr
+pdf2image
+Pillow
+plotly
+torch
+torchvision
+opencv-python-headless

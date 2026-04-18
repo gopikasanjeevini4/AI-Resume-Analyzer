@@ -1,4 +1,4 @@
-# 🌴 AI RESUME ANALYZER 🌴
+# AI RESUME ANALYZER 
 
 <p align="center">
 A Tool for Resume Analysis, Predictions and Recommendations
@@ -151,7 +151,12 @@ http://localhost:8501/
 Add your screenshots here:
 
 ```md
-![Main Screen](image1.png)
+![User Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/User/Home.png?raw=true)
+
+![Admin Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)
+![Admin Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)
+![Admin Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)
+![Admin Screenshot](https://github.com/gopikasanjeevini4/AI-Resume-Analyzer/blob/main/Screenshot/Admin/Admin.png.png?raw=true)
 ![Dashboard](image2.png)
 ```
 

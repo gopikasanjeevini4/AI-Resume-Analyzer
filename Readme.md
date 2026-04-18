@@ -1,118 +1,162 @@
-A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
+# 🌴 AI RESUME ANALYZER 🌴
 
-Scope 
-i. It can be used for getting all the resume data into a structured tabular format and csv as well, so that the organization can use those data for analytics purposes
+<p align="center">
+A Tool for Resume Analysis, Predictions and Recommendations
+</p>
 
-ii. By providing recommendations, predictions and overall score user can improve their resume and can keep on testing it on our tool
+---
 
-iii. And it can increase more traffic to our tool because of user section
+## 📌 About the Project
 
-iv. It can be used by colleges to get insight of students and their resume before placements
+AI Resume Analyzer is a smart tool that parses information from resumes using Natural Language Processing (NLP). It extracts important keywords, clusters resumes into sectors, and provides recommendations, predictions, and analytics for applicants or recruiters based on keyword matching.
 
-v. Also, to get analytics for roles which users are mostly looking for
+---
 
-vi. To improve this tool by getting feedbacks
+## 🚀 Scope
 
-Tech Stack 
-   Frontend
-      Streamlit
-      HTML
-      CSS
-      JavaScript
-   Backend
-      Streamlit
-      Python
-   Database
-      MySQL
-   Modules
-      Pandas
-      NumPy
-      PyMySQL
-      PyMuPDF
-      PDFPlumber
-      EasyOCR
-      PDF2Image
-      Pillow
-      Plotly
-      Torch
-      Torchvision
-      OpenCV
-      
-Features 
+* Convert resume data into structured format / CSV for analytics
+* Help users improve resumes with recommendations and scoring
+* Useful for colleges before placements
+* Track most searched job roles
+* Improve the platform using feedback
 
-Client: -
-   Fetching Location and Miscellaneous Data
+---
 
-   Using Parsing Techniques to fetch
+## 🛠️ Tech Stack
 
-   Basic Info
+### Frontend
 
-   Skills
+* Streamlit
+* HTML
+* CSS
+* JavaScript
 
-   Keywords
+### Backend
 
-Using logical programs, it will recommend
+* Python
+* Streamlit
 
-   Skills that can be added
-   Predicted job role
-   Course and certificates
-   Resume tips and ideas
-   Overall Score
-   Interview & Resume tip videos
+### Database
 
-Admin: -
+* MySQL
 
-   Get all applicant’s data into tabular format
+### Modules
 
-   Download user’s data into csv file
+* Pandas
+* NumPy
+* PyMySQL
+* PyMuPDF
+* PDFPlumber
+* EasyOCR
+* Plotly
+* OpenCV
 
-   View all saved uploaded pdf in Uploaded Resume folder
+---
 
-   Pie Charts
+## ✨ Features
 
-   Ratings
+### Client
 
-   Predicted field
+* Resume upload & parsing
+* Extract Basic Info
+* Extract Skills
+* Extract Keywords
+* Recommend missing skills
+* Predict Job Role
+* Resume Score
+* Video Recommendations
 
-   Resume score
+### Admin
 
-Requirements
+* View all applicants data
+* Export CSV
+* View uploaded resumes
+* Pie chart analytics
+* Ratings
+* Predicted fields
+* Resume score reports
 
-Have these things installed to make your process smooth
+---
 
-Python (3.9.12) https://www.python.org/downloads/release/python-3912/
-MySQL https://www.mysql.com/downloads/
-Visual Studio Code (Prefered Code Editor) https://code.visualstudio.com/Download
+## ⚙️ Setup & Installation
 
-Setup & Installation 
+### Step 1: Clone Repository
 
-Setup & Installation 👀
-
-To run this project, perform the following tasks:
-
-Step 1: Clone the Repository
+```bash
 git clone https://github.com/gopikasanjeevini4/AI-Resume-Analyzer.git
-Step 2: Navigate to Project Directory
+```
+
+### Step 2: Go to Folder
+
+```bash
 cd AI-Resume-Analyzer
-Step 3: Create Virtual Environment (Optional but Recommended)
+```
+
+### Step 3: Create Virtual Environment
+
+```bash
 python -m venv venv
-Step 4: Activate Virtual Environment
-For Windows
+```
+
+### Step 4: Activate Environment
+
+#### Windows
+
+```bash
 venv\Scripts\activate
-For Mac/Linux
+```
+
+#### Mac/Linux
+
+```bash
 source venv/bin/activate
-Step 5: Install Requirements
+```
+
+### Step 5: Install Requirements
+
+```bash
 pip install -r requirements.txt
-Step 6: Run the Application
+```
+
+### Step 6: Run Project
+
+```bash
 streamlit run App.py
-Step 7: Open in Browser
+```
+
+### Step 7: Open Browser
+
+```bash
 http://localhost:8501/
-Usage
+```
 
-After the setup it will do stuff's automatically
-You just need to upload a resume and see it's magic
-Try first with my resume uploaded in Sample_resume folder
-Admin userid is and admin password is admin123 
+---
 
-Preview
+## 👨‍💻 Usage
 
+* Upload a resume
+* Get AI analysis
+* Improve ATS score
+* View recommendations
+
+### Admin Login
+
+* Username: `admin`
+* Password: `admin123`
+
+---
+
+## 📸 Preview
+
+Add your screenshots here:
+
+```md
+![Main Screen](image1.png)
+![Dashboard](image2.png)
+```
+
+---
+
+## 🤍 Author
+
+Developed by **Gopika Sanjeevini**

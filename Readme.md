@@ -87,33 +87,33 @@ Visual Studio Code (Prefered Code Editor) https://code.visualstudio.com/Download
 Setup & Installation 
 
 Step 1: Clone the Repository
-   '''bash
+   ```bash
     git clone https://github.com/gopikasanjeevini4/AI-Resume-Analyzer.git
-    '''
+    ```
 Step 2: Navigate to Project Directory
-    '''bash
+    ```bash
     cd AI-Resume-Analyzer
-   '''
+   ```
 Step 3: Create Virtual Environment (Optional but Recommended)
-    '''bash
+    ```bash
     python -m venv venv
-    '''
+    ```
 Activate Virtual Environment(For Windows):
-    '''bash
+    ```bash
     venv\Scripts\activate
-    '''
+    ```
 Step 4: Install Requirements
-    '''bash
+    ```bash
     pip install -r requirements.txt
-    '''
+    ```
 Step 5: Run the Application
-    '''bash
+    ```bash
     streamlit run App.py
-    '''
+    ```
 After running, the application will open automatically in:
-    '''bash
+    ```bash
     http://localhost:8501/
-    '''
+    ```
 
 Usage
 

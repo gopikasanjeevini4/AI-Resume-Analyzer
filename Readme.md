@@ -77,7 +77,13 @@ AI Resume Analyzer is a smart tool that parses information from resumes using Na
 * Resume score reports
 
 ---
-
+Requirements 😅
+Have these things installed to make your process smooth
+1) Python (3.9.12) https://www.python.org/downloads/release/python-3912/
+2) MySQL https://www.mysql.com/downloads/
+3) Visual Studio Code (Prefered Code Editor) https://code.visualstudio.com/Download
+   
+---
 ## ⚙️ Setup & Installation
 
 ### Step 1: Clone Repository

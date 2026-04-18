@@ -86,41 +86,27 @@ Visual Studio Code (Prefered Code Editor) https://code.visualstudio.com/Download
 
 Setup & Installation 
 
-### Step 1: Clone the Repository
-```bash
+Setup & Installation 👀
+
+To run this project, perform the following tasks:
+
+Step 1: Clone the Repository
 git clone https://github.com/gopikasanjeevini4/AI-Resume-Analyzer.git
-```
-
-### Step 2: Navigate to Project Directory
-```bash
+Step 2: Navigate to Project Directory
 cd AI-Resume-Analyzer
-```
-
-### Step 3: Create Virtual Environment (Optional but Recommended)
-```bash
+Step 3: Create Virtual Environment (Optional but Recommended)
 python -m venv venv
-```
-
-### Activate Virtual Environment (For Windows)
-```bash
+Step 4: Activate Virtual Environment
+For Windows
 venv\Scripts\activate
-```
-
-### Step 4: Install Requirements
-```bash
+For Mac/Linux
+source venv/bin/activate
+Step 5: Install Requirements
 pip install -r requirements.txt
-```
-
-### Step 5: Run the Application
-```bash
+Step 6: Run the Application
 streamlit run App.py
-```
-
-After running, the application will open automatically in:
-
-```bash
+Step 7: Open in Browser
 http://localhost:8501/
-```
 Usage
 
 After the setup it will do stuff's automatically

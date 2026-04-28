@@ -107,7 +107,7 @@ def show_pdf(file_path):
 # COURSE RECOMMENDER
 # =====================================================
 def course_recommender(course_list):
-    st.subheader("🎓 Recommended Courses")
+    st.subheader(" Recommended Courses")
 
     random.shuffle(course_list)
 
@@ -479,10 +479,10 @@ def run():
             # =====================================================
             # VIDEOS
             # =====================================================
-            st.header("📺 Resume Tips")
+            st.header(" Resume Tips")
             st.video(random.choice(resume_videos))
 
-            st.header("🎤 Interview Tips")
+            st.header(" Interview Tips")
             st.video(random.choice(interview_videos))
 
     # =====================================================
